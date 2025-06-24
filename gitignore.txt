@@ -1,0 +1,3 @@
+OpenBCI*
+BrainFlow*
+X.npy
